@@ -1,0 +1,34 @@
+[1.021s] Invoking command in '/home/logan/ten/src/pubsub': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/logan/ten/build/pubsub/build install --record /home/logan/ten/build/pubsub/install.log --single-version-externally-managed install_data
+[1.248s] running egg_info
+[1.249s] creating ../../build/pubsub/pubsub.egg-info
+[1.252s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[1.252s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[1.252s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[1.252s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[1.252s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[1.253s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[1.254s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[1.254s] adding license file 'LICENSE'
+[1.255s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[1.255s] running build
+[1.255s] running build_py
+[1.255s] creating /home/logan/ten/build/pubsub/build
+[1.256s] creating /home/logan/ten/build/pubsub/build/lib
+[1.256s] creating /home/logan/ten/build/pubsub/build/lib/pubsub
+[1.257s] copying pubsub/__init__.py -> /home/logan/ten/build/pubsub/build/lib/pubsub
+[1.257s] running install
+[1.257s] running install_lib
+[1.258s] creating /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub
+[1.258s] copying /home/logan/ten/build/pubsub/build/lib/pubsub/__init__.py -> /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub
+[1.258s] byte-compiling /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub/__init__.py to __init__.cpython-310.pyc
+[1.259s] running install_data
+[1.259s] creating /home/logan/ten/install/pubsub/share/ament_index
+[1.259s] creating /home/logan/ten/install/pubsub/share/ament_index/resource_index
+[1.259s] creating /home/logan/ten/install/pubsub/share/ament_index/resource_index/packages
+[1.260s] copying resource/pubsub -> /home/logan/ten/install/pubsub/share/ament_index/resource_index/packages
+[1.260s] copying package.xml -> /home/logan/ten/install/pubsub/share/pubsub
+[1.260s] running install_egg_info
+[1.262s] Copying ../../build/pubsub/pubsub.egg-info to /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub-0.0.0-py3.10.egg-info
+[1.263s] running install_scripts
+[1.282s] writing list of installed files to '/home/logan/ten/build/pubsub/install.log'
+[1.305s] Invoked command in '/home/logan/ten/src/pubsub' returned '0': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/logan/ten/build/pubsub/build install --record /home/logan/ten/build/pubsub/install.log --single-version-externally-managed install_data

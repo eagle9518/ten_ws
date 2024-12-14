@@ -1,0 +1,20 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing pubsub.egg-info/PKG-INFO
+writing dependency_links to pubsub.egg-info/dependency_links.txt
+writing entry points to pubsub.egg-info/entry_points.txt
+writing requirements to pubsub.egg-info/requires.txt
+writing top-level names to pubsub.egg-info/top_level.txt
+reading manifest file 'pubsub.egg-info/SOURCES.txt'
+writing manifest file 'pubsub.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub.egg-link (link to .)
+Installing listener script to /home/logan/ten/install/pubsub/lib/pubsub
+Installing talker script to /home/logan/ten/install/pubsub/lib/pubsub
+
+Installed /home/logan/ten/build/pubsub
+running symlink_data
+symbolically linking /home/logan/ten/build/pubsub/resource/pubsub -> /home/logan/ten/install/pubsub/share/ament_index/resource_index/packages
+symbolically linking /home/logan/ten/build/pubsub/package.xml -> /home/logan/ten/install/pubsub/share/pubsub

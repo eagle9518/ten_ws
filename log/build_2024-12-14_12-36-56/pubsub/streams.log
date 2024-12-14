@@ -1,0 +1,22 @@
+[0.583s] Invoking command in '/home/logan/ten/build/pubsub': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/logan/ten/build/pubsub/build --no-deps symlink_data --force
+[0.824s] running develop
+[0.825s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.825s]   warnings.warn(
+[0.976s] running egg_info
+[0.976s] writing pubsub.egg-info/PKG-INFO
+[0.977s] writing dependency_links to pubsub.egg-info/dependency_links.txt
+[0.977s] writing entry points to pubsub.egg-info/entry_points.txt
+[0.977s] writing requirements to pubsub.egg-info/requires.txt
+[0.977s] writing top-level names to pubsub.egg-info/top_level.txt
+[0.980s] reading manifest file 'pubsub.egg-info/SOURCES.txt'
+[0.981s] writing manifest file 'pubsub.egg-info/SOURCES.txt'
+[0.982s] running build_ext
+[0.982s] Creating /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub.egg-link (link to .)
+[0.983s] Installing listener script to /home/logan/ten/install/pubsub/lib/pubsub
+[0.984s] Installing talker script to /home/logan/ten/install/pubsub/lib/pubsub
+[0.984s] 
+[0.984s] Installed /home/logan/ten/build/pubsub
+[0.984s] running symlink_data
+[0.984s] symbolically linking /home/logan/ten/build/pubsub/resource/pubsub -> /home/logan/ten/install/pubsub/share/ament_index/resource_index/packages
+[0.984s] symbolically linking /home/logan/ten/build/pubsub/package.xml -> /home/logan/ten/install/pubsub/share/pubsub
+[1.013s] Invoked command in '/home/logan/ten/build/pubsub' returned '0': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/logan/ten/build/pubsub/build --no-deps symlink_data --force

@@ -1,0 +1,26 @@
+[0.582s] Invoking command in '/home/logan/ten/src/pubsub': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/logan/ten/build/pubsub/build install --record /home/logan/ten/build/pubsub/install.log --single-version-externally-managed install_data
+[0.797s] running egg_info
+[0.797s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[0.798s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[0.798s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[0.798s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[0.798s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[0.800s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.800s] adding license file 'LICENSE'
+[0.801s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.801s] running build
+[0.801s] running build_py
+[0.801s] copying pubsub/subscriber_node.py -> /home/logan/ten/build/pubsub/build/lib/pubsub
+[0.801s] running install
+[0.802s] running install_lib
+[0.802s] copying /home/logan/ten/build/pubsub/build/lib/pubsub/subscriber_node.py -> /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub
+[0.803s] byte-compiling /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub/subscriber_node.py to subscriber_node.cpython-310.pyc
+[0.804s] running install_data
+[0.804s] running install_egg_info
+[0.806s] removing '/home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.806s] Copying ../../build/pubsub/pubsub.egg-info to /home/logan/ten/install/pubsub/lib/python3.10/site-packages/pubsub-0.0.0-py3.10.egg-info
+[0.807s] running install_scripts
+[0.826s] Installing listener script to /home/logan/ten/install/pubsub/lib/pubsub
+[0.826s] Installing talker script to /home/logan/ten/install/pubsub/lib/pubsub
+[0.826s] writing list of installed files to '/home/logan/ten/build/pubsub/install.log'
+[0.851s] Invoked command in '/home/logan/ten/src/pubsub' returned '0': PYTHONPATH=/home/logan/ten/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/logan/ten/build/pubsub/build install --record /home/logan/ten/build/pubsub/install.log --single-version-externally-managed install_data
