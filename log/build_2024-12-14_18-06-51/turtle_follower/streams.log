@@ -1,0 +1,21 @@
+[0.905s] Invoking command in '/home/logan/ten_ws/build/turtle_follower': PYTHONPATH=/home/logan/ten_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/logan/ten_ws/build/turtle_follower/build --no-deps symlink_data --force
+[1.159s] running develop
+[1.160s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.160s]   warnings.warn(
+[1.312s] running egg_info
+[1.314s] writing turtle_follower.egg-info/PKG-INFO
+[1.314s] writing dependency_links to turtle_follower.egg-info/dependency_links.txt
+[1.314s] writing entry points to turtle_follower.egg-info/entry_points.txt
+[1.314s] writing requirements to turtle_follower.egg-info/requires.txt
+[1.314s] writing top-level names to turtle_follower.egg-info/top_level.txt
+[1.315s] reading manifest file 'turtle_follower.egg-info/SOURCES.txt'
+[1.316s] writing manifest file 'turtle_follower.egg-info/SOURCES.txt'
+[1.318s] running build_ext
+[1.318s] Creating /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle-follower.egg-link (link to .)
+[1.319s] Installing mover script to /home/logan/ten_ws/install/turtle_follower/lib/turtle_follower
+[1.319s] 
+[1.319s] Installed /home/logan/ten_ws/build/turtle_follower
+[1.319s] running symlink_data
+[1.320s] symbolically linking /home/logan/ten_ws/build/turtle_follower/resource/turtle_follower -> /home/logan/ten_ws/install/turtle_follower/share/ament_index/resource_index/packages
+[1.320s] symbolically linking /home/logan/ten_ws/build/turtle_follower/package.xml -> /home/logan/ten_ws/install/turtle_follower/share/turtle_follower
+[1.369s] Invoked command in '/home/logan/ten_ws/build/turtle_follower' returned '0': PYTHONPATH=/home/logan/ten_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/logan/ten_ws/build/turtle_follower/build --no-deps symlink_data --force

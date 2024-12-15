@@ -1,0 +1,37 @@
+[0.893s] Invoking command in '/home/logan/ten_ws/src/turtle_follower': PYTHONPATH=/home/logan/ten_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_follower build --build-base /home/logan/ten_ws/build/turtle_follower/build install --record /home/logan/ten_ws/build/turtle_follower/install.log --single-version-externally-managed install_data
+[1.113s] running egg_info
+[1.114s] creating ../../build/turtle_follower/turtle_follower.egg-info
+[1.115s] writing ../../build/turtle_follower/turtle_follower.egg-info/PKG-INFO
+[1.115s] writing dependency_links to ../../build/turtle_follower/turtle_follower.egg-info/dependency_links.txt
+[1.116s] writing entry points to ../../build/turtle_follower/turtle_follower.egg-info/entry_points.txt
+[1.116s] writing requirements to ../../build/turtle_follower/turtle_follower.egg-info/requires.txt
+[1.116s] writing top-level names to ../../build/turtle_follower/turtle_follower.egg-info/top_level.txt
+[1.116s] writing manifest file '../../build/turtle_follower/turtle_follower.egg-info/SOURCES.txt'
+[1.117s] reading manifest file '../../build/turtle_follower/turtle_follower.egg-info/SOURCES.txt'
+[1.117s] adding license file 'LICENSE'
+[1.118s] writing manifest file '../../build/turtle_follower/turtle_follower.egg-info/SOURCES.txt'
+[1.119s] running build
+[1.119s] running build_py
+[1.119s] creating /home/logan/ten_ws/build/turtle_follower/build
+[1.119s] creating /home/logan/ten_ws/build/turtle_follower/build/lib
+[1.119s] creating /home/logan/ten_ws/build/turtle_follower/build/lib/turtle_follower
+[1.120s] copying turtle_follower/turtle_follower.py -> /home/logan/ten_ws/build/turtle_follower/build/lib/turtle_follower
+[1.120s] copying turtle_follower/__init__.py -> /home/logan/ten_ws/build/turtle_follower/build/lib/turtle_follower
+[1.120s] running install
+[1.120s] running install_lib
+[1.120s] creating /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower
+[1.121s] copying /home/logan/ten_ws/build/turtle_follower/build/lib/turtle_follower/turtle_follower.py -> /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower
+[1.121s] copying /home/logan/ten_ws/build/turtle_follower/build/lib/turtle_follower/__init__.py -> /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower
+[1.122s] byte-compiling /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower/turtle_follower.py to turtle_follower.cpython-310.pyc
+[1.122s] byte-compiling /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower/__init__.py to __init__.cpython-310.pyc
+[1.123s] running install_data
+[1.123s] creating /home/logan/ten_ws/install/turtle_follower/share/ament_index
+[1.123s] creating /home/logan/ten_ws/install/turtle_follower/share/ament_index/resource_index
+[1.124s] creating /home/logan/ten_ws/install/turtle_follower/share/ament_index/resource_index/packages
+[1.124s] copying resource/turtle_follower -> /home/logan/ten_ws/install/turtle_follower/share/ament_index/resource_index/packages
+[1.124s] copying package.xml -> /home/logan/ten_ws/install/turtle_follower/share/turtle_follower
+[1.124s] running install_egg_info
+[1.126s] Copying ../../build/turtle_follower/turtle_follower.egg-info to /home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower-0.0.0-py3.10.egg-info
+[1.127s] running install_scripts
+[1.148s] writing list of installed files to '/home/logan/ten_ws/build/turtle_follower/install.log'
+[1.186s] Invoked command in '/home/logan/ten_ws/src/turtle_follower' returned '0': PYTHONPATH=/home/logan/ten_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/ten_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_follower build --build-base /home/logan/ten_ws/build/turtle_follower/build install --record /home/logan/ten_ws/build/turtle_follower/install.log --single-version-externally-managed install_data
